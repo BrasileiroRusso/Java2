@@ -1,0 +1,9 @@
+.root {
+    -fx-background-color: azure;
+}
+
+#messageList {
+    -fx-background-color: white;
+    -fx-font-size: 12;
+}
+
